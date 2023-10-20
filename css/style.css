@@ -39,6 +39,32 @@ section .heading h2 {
 ul {
     list-style: none;
 }
+
+/* NAVBAR */
+
+.navbar {
+    background-color: #d82c2e;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom: 1px solid #fff;
+}
+
+.navbar-nav {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.nav-link {
+    color: #fff !important;
+    margin: 0 6px;
+}
+
+.nav-link.active,
+.nav-link:hover {
+    background-color: #fff;
+    color: #d82c2e !important;
+}
 /* ABOUT */
 
 #about {
