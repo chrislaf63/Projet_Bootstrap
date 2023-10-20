@@ -287,3 +287,25 @@ ul {
     color: #d82c2e;
     font-style: italic;
 }
+
+/* FOOTER */
+
+footer {
+    background-color: #333;
+    padding: 20px 0 40px;
+}
+
+footer span {
+    color: #d82c2e;
+    font-size: 25px;
+    line-height: 35px;
+}
+
+footer h5 {
+    color: #fff;
+    font-weight: normal;
+}
+
+footer span:hover {
+    font-size: 30px;
+}
