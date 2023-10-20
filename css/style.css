@@ -272,3 +272,18 @@ ul {
 #portfolio .col-md-4 {
     margin-bottom: 20px;
 } 
+
+/* RECOMMENDATIONS */
+
+#recommendations .heading h2 {
+    color: #d82c2e;
+}
+
+#myCarousel .carousel-item {
+    padding: 30px 30px 90px;
+}
+
+#myCarousel .carousel-item h3 {
+    color: #d82c2e;
+    font-style: italic;
+}
